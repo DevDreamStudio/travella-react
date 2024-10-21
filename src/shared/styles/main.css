@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import './root.css';
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #f1f1f1;
+    padding: 8px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1330px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+ul[role='list'] {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
